@@ -243,12 +243,12 @@
         <mxCell id="CVwJ_8xohQv3hMJ93DHc-12" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="CVwJ_8xohQv3hMJ93DHc-1">
           <mxGeometry y="116" width="707" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="CVwJ_8xohQv3hMJ93DHc-13" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="CVwJ_8xohQv3hMJ93DHc-12">
+        <mxCell id="CVwJ_8xohQv3hMJ93DHc-13" value="版本" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="CVwJ_8xohQv3hMJ93DHc-12">
           <mxGeometry width="120" height="43" as="geometry">
             <mxRectangle width="120" height="43" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CVwJ_8xohQv3hMJ93DHc-14" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="CVwJ_8xohQv3hMJ93DHc-12">
+        <mxCell id="CVwJ_8xohQv3hMJ93DHc-14" value="V1.1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="CVwJ_8xohQv3hMJ93DHc-12">
           <mxGeometry x="120" width="234" height="43" as="geometry">
             <mxRectangle width="234" height="43" as="alternateBounds" />
           </mxGeometry>
