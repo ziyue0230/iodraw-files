@@ -191,7 +191,7 @@
         <mxCell id="vfz1FJS22Dl74sTDVusr-9" value="VPN" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-655" y="1062.5" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="CVwJ_8xohQv3hMJ93DHc-1" value="Table" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="CVwJ_8xohQv3hMJ93DHc-1" value="供应链安全能力分中心(重庆) 软硬件产品供应链安全技术分析平台" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="120" y="1010" width="707" height="159" as="geometry" />
         </mxCell>
         <mxCell id="CVwJ_8xohQv3hMJ93DHc-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="CVwJ_8xohQv3hMJ93DHc-1">
