@@ -225,12 +225,12 @@
             <mxRectangle width="120" height="43" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CVwJ_8xohQv3hMJ93DHc-9" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="CVwJ_8xohQv3hMJ93DHc-7">
+        <mxCell id="CVwJ_8xohQv3hMJ93DHc-9" value="中电智安科技有限公司" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="CVwJ_8xohQv3hMJ93DHc-7">
           <mxGeometry x="120" width="234" height="43" as="geometry">
             <mxRectangle width="234" height="43" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CVwJ_8xohQv3hMJ93DHc-10" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="CVwJ_8xohQv3hMJ93DHc-7">
+        <mxCell id="CVwJ_8xohQv3hMJ93DHc-10" value="部门" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="CVwJ_8xohQv3hMJ93DHc-7">
           <mxGeometry x="354" width="116" height="43" as="geometry">
             <mxRectangle width="116" height="43" as="alternateBounds" />
           </mxGeometry>
