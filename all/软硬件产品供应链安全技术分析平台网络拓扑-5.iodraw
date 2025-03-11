@@ -202,7 +202,7 @@
             <mxRectangle width="120" height="43" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CVwJ_8xohQv3hMJ93DHc-4" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="CVwJ_8xohQv3hMJ93DHc-2">
+        <mxCell id="CVwJ_8xohQv3hMJ93DHc-4" value="网络拓扑图" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="CVwJ_8xohQv3hMJ93DHc-2">
           <mxGeometry x="120" width="234" height="43" as="geometry">
             <mxRectangle width="234" height="43" as="alternateBounds" />
           </mxGeometry>
